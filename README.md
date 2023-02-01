@@ -93,11 +93,10 @@ Dataframe con todas las estadisticas de cada insercion
 ### result_df_control
 ```bash
 
-contador iteracion	maximo minimo media	 tipo
-10	          1	     97	    14.0  63.00	..2012-1
-20	          2	     97	    0.0	  55.25 ..2012-2
-22	          3	     97  	0.0   54.22	..2012-3
-
+contador  iteracion	      maximo        minimo             media           tipo
+10	          1	            97	       14.0           63.00	    ..2012-1
+20	          2	            97	        0.0	       55.25        ..2012-2
+22	          3	            97  	0.0            54.22  	    ..2012-3
 ```
 
 ### Ejecucion
