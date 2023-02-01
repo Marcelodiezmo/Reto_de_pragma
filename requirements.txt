@@ -1,0 +1,5 @@
+pandas==1.4.4
+glob==0.7
+SQLAlchemy==1.4.39
+pytest==7.1.2
+
